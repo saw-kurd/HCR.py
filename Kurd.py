@@ -90,7 +90,7 @@ logo = """
 
 Telegram-@ara_hcr
 
-Telegram chanell-MALEK BO HAVK
+Telegram chanell:@-kurdish_termux_toll
 
 ____________________________________"""
 logo2 = """ """
