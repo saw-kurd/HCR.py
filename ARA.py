@@ -121,7 +121,7 @@ def menu():
     os.system('clear')
     print logo
     print '\x1b[1;97m[1]\x1b[1;97m NUMBER IRAQ CRACK'
-    print '\x1b[1;97m[2]\x1b[1;97m  erbil'
+    print '\x1b[1;97m[2]\x1b[1;97m  3arbat'
     print '\x1b[1;97m[3]\x1b[1;97m  Slemani'
     print '\x1b[1;97m[4]\x1b[1;97m  Kurdistan'
     print '\x1b[1;97m[5]\x1b[1;97m  free mode \033[92m \033[97m'
