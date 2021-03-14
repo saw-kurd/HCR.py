@@ -1,7 +1,7 @@
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
-for n in range(70000):
+for n in range(75000):
     nmbr = random.randint(1111111, 9999999)
     sys.stdout = open('.txt', 'a')
     print nmbr
@@ -94,8 +94,8 @@ Telegram chanell:@-kurdish_termux_toll
 ba xer bey bo tollakam 
 ____________________________________"""
 logo2 = """ """
-CorrectUsername = 'ARA'
-CorrectPassword = 'HCR'
+CorrectUsername = 'ARO'
+CorrectPassword ='Cracker'
 os.system('clear')
 print logo2
 loop = 'true'
@@ -379,8 +379,8 @@ def action():
     p = ThreadPool(30)
     p.map(main, id)
     print '\x1b[1;97m--------------------------------------------------'
-    print '[\xe2\x9c\x93] Process Has Been Completed ...'
-    print '[\xe2\x9c\x93] Total Successfully/Checkpoint : ' + str(len(oks)) + '/' + str(len(cpb))
+    print '[\xe2\x9c\x93]crack tawaw bw ...'
+    print '[\xe2\x9c\x93] Total hack krawakan/swtawakan : ' + str(len(oks)) + '/' + str(len(cpb))
     print '[\xe2\x9c\x93] Cloned Accounts Has Been Saved : anggaxd/clone.txt'
     raw_input('\n\x1b[1;97m[\x1b[1;97mBack\x1b[1;95m]')
     menu()
