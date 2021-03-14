@@ -91,7 +91,7 @@ logo = """
 Telegram-@ara_hcr
 
 Telegram chanell:@-kurdish_termux_toll
-
+ba xer bey bo tollakam 
 ____________________________________"""
 logo2 = """ """
 CorrectUsername = 'ARA'
